@@ -32,7 +32,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4 md:px-8 flex items-center justify-between h-16 md:h-20">
         <a href="#home" className="font-heading text-xl md:text-2xl font-bold gradient-text">
-          NEXUS<span className="text-primary">.</span>HUB
+          Entity<span className="text-primary">.</span>AI
         </a>
 
         <div className="hidden md:flex items-center gap-8">
